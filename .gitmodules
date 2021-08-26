@@ -1,3 +1,6 @@
 [submodule "background-slider"]
 	path = background-slider
 	url = https://github.com/fkrsyf29/background-slider
+[submodule "blurry-loading"]
+	path = blurry-loading
+	url = https://github.com/fkrsyf29/blurry-loading
