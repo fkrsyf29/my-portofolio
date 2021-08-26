@@ -7,3 +7,6 @@
 [submodule "breakout-games"]
 	path = breakout-games
 	url = https://github.com/fkrsyf29/breakout-games
+[submodule "double-vertical-slider"]
+	path = double-vertical-slider
+	url = https://github.com/fkrsyf29/double-vertical-slider/
