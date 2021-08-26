@@ -4,3 +4,6 @@
 [submodule "blurry-loading"]
 	path = blurry-loading
 	url = https://github.com/fkrsyf29/blurry-loading
+[submodule "breakout-games"]
+	path = breakout-games
+	url = https://github.com/fkrsyf29/breakout-games
