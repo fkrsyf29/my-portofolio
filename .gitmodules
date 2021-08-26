@@ -10,3 +10,6 @@
 [submodule "double-vertical-slider"]
 	path = double-vertical-slider
 	url = https://github.com/fkrsyf29/double-vertical-slider/
+[submodule "hangman"]
+	path = hangman
+	url = https://github.com/fkrsyf29/hangman/
