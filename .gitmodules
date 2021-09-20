@@ -16,3 +16,6 @@
 [submodule "hoverboard"]
 	path = hoverboard
 	url = https://github.com/fkrsyf29/hoverboard/
+[submodule "rock-paper-scissors"]
+	path = rock-paper-scissors
+	url = https://github.com/fkrsyf29/rock-paper-scissors.git
