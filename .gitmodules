@@ -19,3 +19,6 @@
 [submodule "rock-paper-scissors"]
 	path = rock-paper-scissors
 	url = https://github.com/fkrsyf29/rock-paper-scissors.git
+[submodule "math-games"]
+	path = math-games
+	url = https://github.com/fkrsyf29/math-games
