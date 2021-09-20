@@ -221,7 +221,7 @@ main#home h1 {
 }
 .about-info .bio {
   grid-area: bio;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 .about-info .job-1 {
   grid-area: job1;
@@ -236,6 +236,10 @@ main#home h1 {
   background: #515151;
   padding: 0.5rem;
   border-bottom: #eece1a 5px solid;
+}
+
+SPAN.li  {
+  display: list-item; margin-left: 2em
 }
 
 .projects {
@@ -330,6 +334,10 @@ main#home h1 {
     line-height: 1;
     margin-bottom: 1rem;
   }
+  .left-on-768 {
+    text-align: left;
+  }
+
   ul.menu-nav,
   div.menu-branding {
     float: none;
