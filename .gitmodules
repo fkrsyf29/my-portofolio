@@ -22,3 +22,6 @@
 [submodule "math-games"]
 	path = math-games
 	url = https://github.com/fkrsyf29/math-games
+[submodule "custom-video-player-vanilla"]
+	path = custom-video-player-vanilla
+	url = https://github.com/fkrsyf29/custom-video-player-vanilla
