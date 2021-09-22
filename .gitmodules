@@ -52,3 +52,6 @@
 [submodule "music-player-vanilla"]
 	path = music-player-vanilla
 	url = https://github.com/fkrsyf29/music-player-vanilla/
+[submodule "relaxer-app-vanilla"]
+	path = relaxer-app-vanilla
+	url = https://github.com/fkrsyf29/relaxer-app-vanilla/
