@@ -28,3 +28,6 @@
 [submodule "typing-game-vanilla"]
 	path = typing-game-vanilla
 	url = https://github.com/fkrsyf29/typing-game-vanilla
+[submodule "speak-number-vanilla"]
+	path = speak-number-vanilla
+	url = https://github.com/fkrsyf29/speak-number-vanilla/
