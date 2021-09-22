@@ -25,3 +25,6 @@
 [submodule "custom-video-player-vanilla"]
 	path = custom-video-player-vanilla
 	url = https://github.com/fkrsyf29/custom-video-player-vanilla
+[submodule "typing-game-vanilla"]
+	path = typing-game-vanilla
+	url = https://github.com/fkrsyf29/typing-game-vanilla
