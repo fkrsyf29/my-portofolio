@@ -34,3 +34,6 @@
 [submodule "infinite-scroll-vanilla"]
 	path = infinite-scroll-vanilla
 	url = https://github.com/fkrsyf29/infinite-scroll-vanilla/
+[submodule "lyrics-search-vanilla"]
+	path = lyrics-search-vanilla
+	url = https://github.com/fkrsyf29/lyrics-search-vanilla/
