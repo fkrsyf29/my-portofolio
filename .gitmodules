@@ -46,3 +46,6 @@
 [submodule "modal-menu-slider-vanilla"]
 	path = modal-menu-slider-vanilla
 	url = https://github.com/fkrsyf29/modal-menu-slider-vanilla/
+[submodule "movie-seat-booking-vanilla"]
+	path = movie-seat-booking-vanilla
+	url = https://github.com/fkrsyf29/movie-seat-booking-vanilla/
