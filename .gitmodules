@@ -49,3 +49,6 @@
 [submodule "movie-seat-booking-vanilla"]
 	path = movie-seat-booking-vanilla
 	url = https://github.com/fkrsyf29/movie-seat-booking-vanilla/
+[submodule "music-player-vanilla"]
+	path = music-player-vanilla
+	url = https://github.com/fkrsyf29/music-player-vanilla/
