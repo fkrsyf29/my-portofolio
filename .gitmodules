@@ -55,3 +55,6 @@
 [submodule "relaxer-app-vanilla"]
 	path = relaxer-app-vanilla
 	url = https://github.com/fkrsyf29/relaxer-app-vanilla/
+[submodule "speech-text-reader"]
+	path = speech-text-reader
+	url = https://github.com/fkrsyf29/speech-text-reader/
