@@ -37,3 +37,6 @@
 [submodule "lyrics-search-vanilla"]
 	path = lyrics-search-vanilla
 	url = https://github.com/fkrsyf29/lyrics-search-vanilla/
+[submodule "meal-finder-vanilla"]
+	path = meal-finder-vanilla
+	url = https://github.com/fkrsyf29/meal-finder-vanilla/
