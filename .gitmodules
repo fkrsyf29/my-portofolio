@@ -40,3 +40,6 @@
 [submodule "meal-finder-vanilla"]
 	path = meal-finder-vanilla
 	url = https://github.com/fkrsyf29/meal-finder-vanilla/
+[submodule "memory-cards-vanilla"]
+	path = memory-cards-vanilla
+	url = https://github.com/fkrsyf29/memory-cards-vanilla/
